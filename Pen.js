@@ -39,7 +39,12 @@ class Pen {
     }
 
     sign(){
-        console.log("John Doe");
+        if(!this.#hasInk){
+            throw new Error("Cannot Sign this Document. Grab a Pen with Ink");
+        }else{
+            console.log("John Doe");
+        }
+        
     }
 }
 
