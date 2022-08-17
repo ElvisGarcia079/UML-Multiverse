@@ -7,5 +7,5 @@ Slides for the Day: [Demo Slides](https://docs.google.com/presentation/d/e/2PACX
 ## Use Case Diagram for Pen Object
 ![Use Case Diagram](Pen-Use-Case-Diagram-OG.png)
 
-##Sequence Diagram for Pen Object
+## Sequence Diagram for Pen Object
 ![Sequence Diagram](Sequence-Diagram-Pen-3xScaled.png)
